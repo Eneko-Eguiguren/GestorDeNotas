@@ -1,5 +1,9 @@
 package main;
 
-public class Main {
+import principales.AsignaturaECTS;
 
+public class Main {
+	public static void main(String[] args) {
+		
+	}
 }
